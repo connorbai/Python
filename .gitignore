@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/t_pandas/cmds-glue
+/t_pandas/csvfile
+
+
+t_pandas/*.csv
+t_pandas/*.json
+
+# .idea
+.idea/csv-editor.xml
